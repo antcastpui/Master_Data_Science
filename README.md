@@ -1,9 +1,5 @@
-# Master_Data_Science
+# Master Data Science Kschool
 
-Copa del Rey
+**autor**: Antonio del Castillo
 
-Puedo poner *cursiva* **negrita** 
-
-dsdsdsd
-
-Y mas cosas
+Repositorio creado para el seguimiento del master.
