@@ -1,0 +1,34 @@
+1 Navigate through the folders with
+
+	cd
+
+2 Go to the folder opentraveldate
+
+	cd Data/opentraveldata   
+
+3 Create a folder with the command mkdir
+
+	mkdir first_dir
+
+4 Create an empty file
+
+	touch text_file.txt
+
+5 See files and information in a folder
+
+	ll
+
+#6 Copy files with the command cp
+
+	cp -p text_file.txt sub1/text_file_copy.txt
+
+#7 Move a file to other folder
+
+	mv text_file.txt sub2/text_file.txt
+
+#8 Change file name text_file.txt to text_file.txt.backup
+	
+	mv text_file.txt text_file.txt.backup
+
+#9 Delete a direcoty with rm command
+	rm -r sub2
